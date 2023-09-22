@@ -1,0 +1,11 @@
+body {
+    background-color: thistle !important;
+}
+
+.card {
+    cursor: pointer;
+}
+
+.custon-height {
+    height: 20vw;
+}
